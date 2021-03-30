@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300;400;500&display=swap");
+
+h1,
+h2,
+li {
+  font-family: "Kiwi Maru", serif;
+}
+
+.rdt_TableCell {
+  font-family: "Kiwi Maru", serif;
+}
+
+#root {
+  background-color: #0984e3;
+}
+
+.rdt_TableHeader {
+  border-top-right-radius: 18px;
+  border-top-left-radius: 18px;
+}
+
+.rdt_Pagination {
+  border-bottom-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #0984e3;
+}
